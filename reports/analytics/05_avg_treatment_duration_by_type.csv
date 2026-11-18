@@ -1,0 +1,6 @@
+treatment_type,treatments_with_duration,avg_duration_minutes,min_duration_minutes,max_duration_minutes
+Therapy,1071,93.17,5,180
+Consultation,1050,92.57,5,180
+Diagnostics,1101,92.25,5,180
+Surgery,1028,92.21,5,180
+Medication,1073,91.28,5,180
